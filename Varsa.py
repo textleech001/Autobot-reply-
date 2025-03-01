@@ -7,9 +7,9 @@
         "Conversation Bot",
         "bot"
     ],
-    "repository": "https://github.com/vasusen-code/SaveRestrictedContentBot",
+    "repository": "https://github.com/Arjunji001",
     "website": "",
-    "success_url": "https://t.me/DroneBots",
+    "success_url": "https://t.me/Nursing_Nation_bot",
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
@@ -33,7 +33,7 @@
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "https://t.me/testbotdrive"
         }
     },
     "buildpacks": [
