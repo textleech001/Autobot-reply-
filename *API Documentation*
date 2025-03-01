@@ -1,0 +1,6 @@
+- start: This function is called when the user starts the bot.
+- main_menu: This function returns the main menu markup.
+- menu_1: This function is called when the user selects "Menu 1".
+- submenu_1: This function returns the submenu markup for "Menu 1".
+- submenu_1_1: This function is called when the user selects "Submenu 1-1".
+- `submenu_
